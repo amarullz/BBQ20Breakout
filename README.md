@@ -10,11 +10,11 @@ I know, but I design it on easyeda for easy individual order/manufacturing (on j
 
 ## Design
 
-![Top View](imgs/bbq20b-top.svg)
+![3D View](imgs/bbq20b-3d.png)
 
-![Bottom View](imgs/bbq20b-bottom.svg)
+![Top View](imgs/bbq20b-top.png)
 
-![3D View](imgs/bbq20b-3d.jpeg)
+![Top View](imgs/bbq20b-bottom.png)
 
 ## OSHWLAB
 
